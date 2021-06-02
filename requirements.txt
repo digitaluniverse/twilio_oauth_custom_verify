@@ -1,0 +1,6 @@
+Django
+djangorestframework
+twilio
+django-phonenumber-field[phonenumbers]
+python-decouple
+drf-social-oauth2
